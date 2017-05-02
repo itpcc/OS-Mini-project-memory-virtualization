@@ -15,4 +15,4 @@ sudo ./readmap $PID
 
 ## Materials
 
-[Presentation](https://docs.google.com/presentation/d/1ioFD14uZaIkSjcNhp6J6YNqeKiAA65BfL5tHARuxcIw/edit?usp=sharing) ([PDF](OS Mini project 3 Report.pdf))
+[Presentation](https://docs.google.com/presentation/d/1ioFD14uZaIkSjcNhp6J6YNqeKiAA65BfL5tHARuxcIw/edit?usp=sharing) ( [PDF](./OS Mini project 3 Report.pdf) )
